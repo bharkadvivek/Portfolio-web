@@ -35,26 +35,10 @@ const Projects = () => {
                 <li>
                   Component based project design having sections as About, Education, Experience, Skills, Projects and Interest. 
                 </li>
-              </ul>
-            </div>
-          </div>
-          {/* <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div className="flex-grow-1">
-              <h3 className="mb-0">Color Helper</h3>
-              <ul className="mt-2">
-                <li>
-                  This project helps web designer and web developer to find
-                  attractive colors for web pages/web sites.
-                </li>
-                <li>Here are two different visuals for the color palette.</li>
-                <li>
-                  Random color and hex code for that color. Easy to use. Project
-                  build using - React.js, bootstrap
-                </li>
                 <li>
                   <a
                     rel="noopener noreferrer"
-                    href="https://color-helper.netlify.app/"
+                    href="https://jocular-tartufo-2c8f0b.netlify.app/"
                     target="_blank"
                   >
                     <strong>See Full Project</strong>
@@ -63,30 +47,30 @@ const Projects = () => {
               </ul>
             </div>
           </div>
+          
           <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-              <h3 className="mb-0">Appointment interface</h3>
+              <h3 className="mb-0">Restaurant website</h3>
               <ul className="mt-2">
-                <li>An Appointment interface project with react.js .</li>
+                <li>•	As a dedicated and skilled web developer, I have successfully contributed to the creation of a dynamic restaurant website using React.js, HTML, and CSS.</li>
                 <li>
-                  In this projects, Axios is used to get data dynamically.
+                •	Implemented clean and maintainable HTML and CSS to ensure a seamless user experience
                 </li>
                 <li>
-                  Full functional project -- Can add new appointment, search and
-                  sort appointment, delete appointment.
+                •	Utilized state management and component-based architecture for efficient development
                 </li>
                 <li>
                   <a
                     rel="noopener noreferrer"
-                    href="https://pet-clinic-appointment.netlify.app/"
+                    href="https://lighthearted-tarsier-b93466.netlify.app/"
                     target="_blank"
                   >
                     <strong>See Full Project</strong>
                   </a>
                 </li>
               </ul>
-            </div> */}
-          {/* </div> */}
+            </div> 
+         </div> 
         </div>
       </section>
       <hr className="m-0" />
